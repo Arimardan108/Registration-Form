@@ -82,7 +82,7 @@ The server will start Running on
 
 | Author                | Profile Link                                       |
 | --------------------- | :------------------------------------------------- |
-| **Arimardan ** | **[Guru Roxz](https://github.com/Arimardan108)** |
+| **Arimardan** | **[Arimardan](https://github.com/Arimardan108)** |
 
 
 ## Acknowledgments
